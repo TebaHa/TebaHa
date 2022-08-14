@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-[![zytrams's 42 stats](https://badge42.vercel.app/api/v2/cl4q28k7e002609l47h8rgzgs/stats?cursusId=21&coalitionId=37)](https://github.com/JaeSeoKim/badge42)
-
-[![zytrams's 42 stats](https://badge42.vercel.app/api/v2/cl4q28k7e002609l47h8rgzgs/stats?cursusId=21&coalitionId=37)](https://github.com/JaeSeoKim/badge42)
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4q28k7e002609l47h8rgzgs/stats?cursusId=21&coalitionId=37" alt="zytrams's 42 stats" /></a>
-
 <!--
 **TebaHa/TebaHa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
